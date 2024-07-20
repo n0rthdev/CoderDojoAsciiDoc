@@ -1,0 +1,18 @@
+// header file for arc42-template,
+// including all help texts
+//
+// ====================================
+
+= {projectName}
+// toc-title definition MUST follow document title without blank line!
+:toc-title: Table of Contents
+
+// numbering from here on
+:numbered:
+
+Last updated: {dateTime}
+
+<<<<
+include::_fishefangen.adoc[]
+
+
