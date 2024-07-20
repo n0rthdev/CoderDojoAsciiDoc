@@ -68,13 +68,10 @@ tasks {
 
 val asciiAttributes = mapOf(
     "imagesdir" to ".",
-    "plantUmlDir" to "./plantuml",
     "toc" to "left",
     "toclevels" to 3,
     "max-width" to "100%",
     "projectName" to rootProject.name,
-    "stylesdir" to "./theme",
-    "style" to "pegus-digital",
     "dateTime" to SimpleDateFormat("dd-MM-yyyy HH:mm:ssZ").format(Date())
 )
 
